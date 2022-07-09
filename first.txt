@@ -1,2 +1,2 @@
 this is first line
-git push https://anji.java896:Bindhu%40123@testing.biz/file.git --all 
+ 
